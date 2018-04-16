@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\bin\Debug\netcoreapp2.0\06.Animal.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\bin\Debug\netcoreapp2.0\06.Animal.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\bin\Debug\netcoreapp2.0\06.Animal.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\bin\Debug\netcoreapp2.0\06.Animal.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\bin\Debug\netcoreapp2.0\06.Animal.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\obj\Debug\netcoreapp2.0\06.Animal.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\obj\Debug\netcoreapp2.0\06.Animal.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\obj\Debug\netcoreapp2.0\06.Animal.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\obj\Debug\netcoreapp2.0\06.Animal.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\obj\Debug\netcoreapp2.0\06.Animal.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\06.Animal\obj\Debug\netcoreapp2.0\06.Animal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb

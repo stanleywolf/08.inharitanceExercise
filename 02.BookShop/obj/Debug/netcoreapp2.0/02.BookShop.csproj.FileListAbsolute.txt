@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.pdb

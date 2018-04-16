@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.pdb

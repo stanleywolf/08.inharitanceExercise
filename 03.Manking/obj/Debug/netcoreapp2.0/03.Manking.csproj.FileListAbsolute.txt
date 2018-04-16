@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\bin\Debug\netcoreapp2.0\03.Manking.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\bin\Debug\netcoreapp2.0\03.Manking.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\bin\Debug\netcoreapp2.0\03.Manking.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\bin\Debug\netcoreapp2.0\03.Manking.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\bin\Debug\netcoreapp2.0\03.Manking.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\obj\Debug\netcoreapp2.0\03.Manking.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\obj\Debug\netcoreapp2.0\03.Manking.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\obj\Debug\netcoreapp2.0\03.Manking.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\obj\Debug\netcoreapp2.0\03.Manking.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\obj\Debug\netcoreapp2.0\03.Manking.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\03.Manking\obj\Debug\netcoreapp2.0\03.Manking.pdb

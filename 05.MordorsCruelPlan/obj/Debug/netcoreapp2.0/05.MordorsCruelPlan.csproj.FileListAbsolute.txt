@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\bin\Debug\netcoreapp2.0\05.MordorsCruelPlan.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\08.inharitanceExercise\05.MordorsCruelPlan\obj\Debug\netcoreapp2.0\05.MordorsCruelPlan.csprojResolveAssemblyReference.cache
